@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="list_array">
+        <item>Live Blog</item>
+        <item>Article Printed</item>
+
+    </string-array>
+    <string-array name="list_values">
+        <item>liveblog</item>
+        <item>article</item>
+    </string-array>
+
+</resources>

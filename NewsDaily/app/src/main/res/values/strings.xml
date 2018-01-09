@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">News Daily</string>
+
+    <string name="Null_string"></string>
+    <string name="no_Internet_Connection">No Internet Connection</string>
+    <string name="no_Any_News">News not Available</string>
+
+    <string name="default_section_name">Section Name</string>
+    <string name="dafault_title">Section Title</string>
+    <string name="default_author">Imogen Tilden</string>
+    <string name="default_Date">Aug 6, 2018</string>
+
+    <string name="settings_menu_item">Settings</string>
+    <string name="news_settings_label">News Settings</string>
+
+    <string name="query_title">Enter some query</string>
+    <string name="default_query_value">technology</string>
+    <string name="query_key">query</string>
+    <string name="query_parameter">q</string>
+
+    <string name="type_parameter">type</string>
+    <string name="type_title">Pick Any Type</string>
+    <string name="type_key">list_pref</string>
+    <string name="type_default_value">politics</string>
+
+</resources>

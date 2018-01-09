@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="@string/news_settings_label">
+
+    <ListPreference
+        android:defaultValue="@string/type_default_value"
+        android:entries="@array/list_array"
+        android:entryValues="@array/list_values"
+        android:key="@string/type_key"
+        android:title="@string/type_title">
+
+    </ListPreference>
+
+    <EditTextPreference
+        android:defaultValue="@string/default_query_value"
+        android:key="@string/query_key"
+        android:selectAllOnFocus="true"
+        android:title="@string/query_title" />
+
+</PreferenceScreen>
